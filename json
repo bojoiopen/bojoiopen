@@ -1,0 +1,9 @@
+[{
+    "id": 123,
+    "username": "User 1",
+    "message": "Cool product!"
+}, {
+    "id": 456,
+    "username": "User 2",
+    "message": "Didn't like it that much"
+}]
